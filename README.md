@@ -40,3 +40,8 @@ export ANTHROPIC_API_KEY=your-api-key
 ```bash
 streamlit run app.py
 ```
+
+## Acknowledgements
+
+This project is adapted from examples provided by Anthropic in their [Anthropic Cookbook](https://docs.anthropic.com/en/docs/about-claude/use-case-guides/customer-support-chat).  
+All credit for the original architecture and ideas goes to their team.
