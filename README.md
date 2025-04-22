@@ -1,6 +1,6 @@
-# SupportChat
+# Eva – AI Assistant for Customer Support
 
-SupportChat is a simple conversational assistant for an insurance company. It uses Anthropic's Claude model to simulate helpful, context-aware interactions with users. The app is built with Streamlit and structured for modular development.
+Eva is a simple conversational assistant for an insurance company. It uses Anthropic's Claude model to simulate helpful, context-aware interactions with users. The app is built with Streamlit and structured for modular development.
 
 ## Features
 
