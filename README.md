@@ -10,12 +10,14 @@ SupportChat is a simple conversational assistant for an insurance company. It us
 - Modular code structure
 
 ## Project Structure
+```
 SupportChat/
 ├── app.py                  # Streamlit app entry point
 ├── chatbot.py              # Chatbot class using Anthropic
 ├── config.py               # Constants like TOOLS, IDENTITY, MODEL
 ├── requirements.txt        # Dependencies
 └── .gitignore              # Git ignore settings
+```
 
 ## Getting Started
 1. Clone the repository:
