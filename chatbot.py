@@ -87,3 +87,4 @@ class ChatBot:
             return f"Quote generated: ${premium:.2f} per month"
 
         raise Exception("An unexpected tool was used")
+    
